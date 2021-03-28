@@ -1,6 +1,6 @@
 # David Verghese
 
-### [LinkedIn](https://www.linkedin.com/in/davidjverghese/) 
+![LinkedIn](https://cdn3.iconfinder.com/data/icons/picons-social/57/51-linkedin-512.png) ### [LinkedIn](https://www.linkedin.com/in/davidjverghese/) 
 ### [Portfolio](https://david-verghese-portfolio.surge.sh/) 
 
 ## About Me
