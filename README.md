@@ -1,5 +1,6 @@
 # David Verghese
 
+![Image of me on my computer](https://raw.githubusercontent.com/DavidVerghese/davidverghese/main/CartoonMe.81832ec3.png)
 ### [LinkedIn](https://www.linkedin.com/in/davidjverghese/) 
 ### [Portfolio](https://david-verghese-portfolio.surge.sh/) 
 
