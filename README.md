@@ -11,7 +11,7 @@ I am also a musician. My interest in music technology, such as recording softwar
 
 I am currently working on the "Online Daw", a musicmaking website that allows users to make beats in the browser. [This](https://www.youtube.com/watch?v=8OT_MF8sQBU) is a demonstration video I have recently filmed. 
 
-##Skills
+## Skills
 
 * **Languages:** HTML, CSS, JS, Ruby, Arduino, Max
 * **Frameworks and Libraries:** React, Node.js, Express.js, Ruby on Rails
