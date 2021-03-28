@@ -1,4 +1,4 @@
-David Verghese
+# David Verghese
 
 I am a creative software developer and musician looking for an entry level position as a junior software developer. Thoughtful, imaginative, and enthusiastic, I apply the same passion and focus to creating aesthetically pleasing, user-focused interfaces, and coding robust applications as I do to creating soundscapes and composing songs. I seek the opportunity to join a high achieving company where I can fully develop my artistic and technical skills in programming.
 
