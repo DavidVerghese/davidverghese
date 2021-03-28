@@ -1,6 +1,5 @@
 # David Verghese
 
-![An emoji of me with a computer](https://david-verghese-portfolio.surge.sh/static/media/CartoonMe.81832ec3.png)
 ### [LinkedIn](https://www.linkedin.com/in/davidjverghese/) 
 ### [Portfolio](https://david-verghese-portfolio.surge.sh/) 
 
