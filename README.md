@@ -1,5 +1,5 @@
 # David Verghese
-
+🎸🎼
 ### [LinkedIn](https://www.linkedin.com/in/davidjverghese/) 
 ### [Portfolio](https://david-verghese-portfolio.surge.sh/) 
 
