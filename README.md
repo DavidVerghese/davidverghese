@@ -10,3 +10,9 @@ I am a graduate of the Software Engineering Immersive program at General Assembl
 I am also a musician. My interest in music technology, such as recording software and plug-ins, is what led me to becoming a software engineer.
 
 I am currently working on the "Online Daw", a musicmaking website that allows users to make beats in the browser. [This](https://www.youtube.com/watch?v=8OT_MF8sQBU) is a demonstration video I have recently filmed. 
+
+##Skills
+
+* **Languages:** HTML, CSS, JS, Ruby, Arduino, Max
+* **Frameworks and Libraries:** React, Node.js, Express.js, Ruby on Rails
+* **Databases:** MongoDB, Mongoose, PostgreSQL
