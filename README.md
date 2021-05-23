@@ -14,6 +14,6 @@ I am currently working on the "Online Daw", a musicmaking website that allows us
 
 ## Skills
 
-* **Languages:** HTML, CSS, JS, Ruby, Arduino, Max
-* **Frameworks and Libraries:** React, Node.js, Express.js, Ruby on Rails
+* **Languages:** HTML, CSS, JS, Ruby, Arduino, Max, Java
+* **Frameworks and Libraries:** React, Node.js, Express.js, Ruby on Rails, Next.js
 * **Databases:** MongoDB, Mongoose, PostgreSQL
