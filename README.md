@@ -2,7 +2,7 @@
 
 ![Image of me on my computer](https://raw.githubusercontent.com/DavidVerghese/davidverghese/main/CartoonMe.81832ec3.png)
 ### [LinkedIn](https://www.linkedin.com/in/davidjverghese/) 
-### [Portfolio](https://david-verghese-portfolio.surge.sh/) 
+### [Portfolio](https://davidverghese.surge.sh/) 
 
 ## About Me
 I am a creative software developer and musician looking for an entry level position as a junior software developer. Thoughtful, imaginative, and enthusiastic, I apply the same passion and focus to creating aesthetically pleasing, user-focused interfaces, and coding robust applications as I do to creating soundscapes and composing songs. I seek the opportunity to join a high achieving company where I can fully develop my artistic and technical skills in programming.
