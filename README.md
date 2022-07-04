@@ -19,4 +19,4 @@ I am currently working on the "Online Daw", a musicmaking website that allows us
 
 * **Languages:** HTML, CSS, JS, Ruby, Arduino, Max, Java, C++, Python
 * **Frameworks and Libraries:** React, Node.js, Express.js, Ruby on Rails, Next.js, Sass, Redux, Mongoose, Bootstrap, Jest, KeystoneJS, Django
-* **Databases:** MongoDB, Mongoose, PostgreSQL, SQLite
+* **Databases:** MongoDB, PostgreSQL, SQLite
