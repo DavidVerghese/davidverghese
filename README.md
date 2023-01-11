@@ -11,7 +11,7 @@ I am a graduate of the New York University School of Engineering's Integrated Di
 
 In my previous role, I worked as a software engineering instructor at the Flatiron School. I am passionate about helping people from all sorts of backgrounds enter the tech industry, and build projects that reflect their unique life experiences and interests.
 
-Resume: [link](https://drive.google.com/file/d/1WTLLmDKceMZNSl4DcPyn8UnA9wDBk3dI/view) 
+Resume: [here](https://drive.google.com/file/d/1WTLLmDKceMZNSl4DcPyn8UnA9wDBk3dI/view) 
 
 ## Skills
 
