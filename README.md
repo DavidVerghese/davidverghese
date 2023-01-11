@@ -5,18 +5,16 @@
 ### [Portfolio](https://davidverghese.surge.sh/) 
 
 ## About Me
-I am a creative software developer and musician looking for an entry level position as a junior software developer. Thoughtful, imaginative, and enthusiastic, I apply the same passion and focus to creating aesthetically pleasing, user-focused interfaces, and coding robust applications as I do to creating soundscapes and composing songs. I seek the opportunity to join a high achieving company where I can fully develop my artistic and technical skills in programming.
+I am a software engineer and educator.
 
-I am a graduate of the Software Engineering Immersive program at General Assembly, a 4 month course with over 400 hours of professional training. In this course, I learned to construct full-stack websites and APIs from scratch, using JavaScript, React, MongoDB, Express, Node.js, and Ruby on Rails.
+I am a graduate of the New York University School of Engineering's Integrated Digital Media program, and General Assembly's Full Stack Software Engineering program. I have a strong interest in the arts (painting, singing, guitar, songwriting) and have built projects that combine my creative background with my technical skills in full stack web development. Please take a look at my projects: ### [projects](https://davidverghese.surge.sh/webapps) 
 
-Since graduating, I have been working as a freelance software engineer, and have gained experience with Python, Java, C++, Next.js, Wordpress, Sass, and KeystoneJS
+In my previous role, I worked as a software engineering instructor at the Flatiron School. I am passionate about helping people from all sorts of backgrounds enter the tech industry, and build projects that reflect their unique life experiences and interests.
 
-I am also a musician. My interest in music technology, such as recording software and plug-ins, is what led me to becoming a software engineer.
-
-I am currently working on the "Online Daw", a musicmaking website that allows users to make beats in the browser. [This](https://www.youtube.com/watch?v=8OT_MF8sQBU) is a demonstration video I have recently filmed. 
+Resume: ### [link](https://drive.google.com/file/d/1WTLLmDKceMZNSl4DcPyn8UnA9wDBk3dI/view) 
 
 ## Skills
 
-* **Languages:** HTML, CSS, JS, Ruby, Arduino, Max, Java, C++, Python
+* **Languages:** HTML, CSS, JS, Ruby, Arduino, Max, Java, C++, Python, TypeScript, SQL
 * **Frameworks and Libraries:** React, Node.js, Express.js, Ruby on Rails, Next.js, Sass, Redux, Mongoose, Bootstrap, Jest, KeystoneJS, Django
-* **Databases:** MongoDB, PostgreSQL, SQLite
+* **Databases:** MongoDB, PostgreSQL, SQLite, SQLAlchemy
