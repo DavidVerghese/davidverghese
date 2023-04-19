@@ -11,7 +11,7 @@ I am a graduate of the New York University School of Engineering's Integrated Di
 
 In my previous role, I worked as a software engineering instructor at the Flatiron School. I helped students to develop technical skills in areas such as HTML, CSS, JavaScript, React, Redux, Sinatra, Ruby on Rails, Heroku. I mentored 40+ students over the course of 6 months, including 7 graduates and 4 who have successfully transitioned to software engineering roles. I conducted 100+ hour-long project reviews of React / Ruby on Rails and React / Sinatra applications to ensure Flatiron School requirements were met. I conducted 50+ hour-long debugging sessions, where I showed students how to solve problems with their projects using Dev Tools, Postman, and command line debugging tools. I worked with a team of 10+ instructors to ensure consistency in student and project assessments.
 
-Resume: [here](https://drive.google.com/file/d/1WTLLmDKceMZNSl4DcPyn8UnA9wDBk3dI/view) 
+Resume: [here](https://drive.google.com/file/d/1qFbajCHP9ihjMwf0P-LBZcNKId8oiQXb/view) 
 
 ## Skills
 
